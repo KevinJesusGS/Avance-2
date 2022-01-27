@@ -1,4 +1,4 @@
-let iva = 0.16;
+const iva = 0.16;
 let Total;
 
 function calcularIva(precio){
